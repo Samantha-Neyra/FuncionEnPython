@@ -1,0 +1,13 @@
+#este es un nuevo archivo que se esta subiendo en el proyect de python respecto a la division 
+# Hola Mundo en Python
+print("¡Hola, este es un archivo dos!")
+
+# Suma de dos números
+num1 = 10
+num2 = 2
+division = num1 / num2
+
+
+print(f"La division de {num1} y {num2} es {division}")
+
+
